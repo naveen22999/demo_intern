@@ -1,0 +1,10 @@
+Process To Run The Java Code:-
+Instructions for Running in Eclipse:-
+1. Open Eclipse and create a new Java project (e.g., 'OnlineQuizApp1ication N).
+2. Create the package •com.klef@:
+• Right-click on •src• and select • New • > *Package'.
+• Name the package •com. klef".
+3. Create the Main class:
+Right-click on the package •com.klef' and select 'New' > 'Class • .
+Name the class and check the option to include the public static void
+args) method.
